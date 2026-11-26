@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**55** solved · 36 problems · 0 labs · 19 math
+**56** solved · 37 problems · 0 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-09 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-03 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-06 | [solution](problems/0007-matrix-transformation) |
+| [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-11-26 | [solution](problems/0313-numerical-gradient-checking) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-17 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-03 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-14 | [solution](problems/0025-single-neuron-with-backpropagation) |
